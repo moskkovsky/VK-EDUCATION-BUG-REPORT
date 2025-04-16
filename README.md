@@ -25,5 +25,5 @@
 ### Ожидаемый результат:
 В поле ввода комментария отображается ранее введенный текст 
 
-https://github.com/user-attachments/assets/c3360ca6-8029-4abe-b222-b4cb7c093961
+https://github.com/user-attachments/assets/4b2db7aa-1bb1-4f96-98cc-f8437377e0d3
 
